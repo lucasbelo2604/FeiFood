@@ -5,8 +5,8 @@ Acompanhamento sobre a evolução do projeto em Java
 
 Comecei o projeto mudando quase tudo o que tinha sido feito em aula.
 Eu estava tendo dificuldade em seguir o modelo com JFrame pelo editor visual, então decidi fazer de outro jeito: criei as telas pelo código direto, usando JavaClass em vez de arrastar e soltar componentes.
+Isso me deu mais liberdade, mas também me obrigou a mudar praticamente todo o esqueleto do projeto — principalmente a parte de view, mas acabei alterando também os models, controllers e até a conexão com o banco.]                                                       
 
-Isso me deu mais liberdade, mas também me obrigou a mudar praticamente todo o esqueleto do projeto — principalmente a parte de view, mas acabei alterando também os models, controllers e até a conexão com o banco.
 <img width="402" height="255" alt="Captura de tela 2025-11-11 165945" src="https://github.com/user-attachments/assets/ebbd1599-5935-4716-b157-7b5d70b61dd3" />
 
 <img width="440" height="276" alt="Captura de tela 2025-11-11 165956" src="https://github.com/user-attachments/assets/b99526ec-0181-4b66-94c4-c36b25b426d1" />
