@@ -18,7 +18,7 @@ Nessas últimas semanas avancei bem mais.
 Terminei de fazer as telas que faltavam, como a de pedidos, avaliação e também o catálogo de alimentos.
 Foi nessa parte que o projeto começou a tomar forma de verdade.
 
-<img width="440" height="276" alt="Captura de tela 2025-11-11 165956" src="https://github.com/user-attachments/assets/a09601d4-ab6e-4969-a9a8-bb7e731603d1" />
+<img width="885" height="587" alt="Captura de tela 2025-11-11 170225" src="https://github.com/user-attachments/assets/2c281d49-11c9-470a-ad8e-19e787655349" />
 
 
 Comecei a trabalhar também no banco de dados, criando todas as tabelas, populando com dados e fazendo os relacionamentos entre elas.
