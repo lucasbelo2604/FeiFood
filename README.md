@@ -71,4 +71,7 @@ Mesmo tendo começado pequeno, o projeto foi crescendo e me ajudou muito a enten
 Hoje o projeto está finalizado e funcionando bem, e serviu como uma ótima base pra consolidar tudo o que aprendi sobre programação orientada a objetos e integração com banco de dados.
 
 ## Arquivos do projeto 
+[Projeto.jar.zip](https://github.com/user-attachments/files/23485840/Projeto.jar.zip)
+[javadoc.zip](https://github.com/user-attachments/files/23486013/javadoc.zip)
+[Esqueleto PROJETO JAVA.zip](https://github.com/user-attachments/files/23486125/Esqueleto.PROJETO.JAVA.zip)
 
