@@ -7,15 +7,19 @@ Comecei o projeto mudando quase tudo o que tinha sido feito em aula.
 Eu estava tendo dificuldade em seguir o modelo com JFrame pelo editor visual, então decidi fazer de outro jeito: criei as telas pelo código direto, usando JavaClass em vez de arrastar e soltar componentes.
 
 Isso me deu mais liberdade, mas também me obrigou a mudar praticamente todo o esqueleto do projeto — principalmente a parte de view, mas acabei alterando também os models, controllers e até a conexão com o banco.
+<img width="402" height="255" alt="Captura de tela 2025-11-11 165945" src="https://github.com/user-attachments/assets/ebbd1599-5935-4716-b157-7b5d70b61dd3" />
 
-<img width="601" height="370" alt="image" src="https://github.com/user-attachments/assets/a9669067-7fbd-46aa-92f7-f25a321fd977" />
-<img width="748" height="451" alt="image" src="https://github.com/user-attachments/assets/92d37e38-ef60-49a5-9c7a-028a80e8e15c" />
+<img width="440" height="276" alt="Captura de tela 2025-11-11 165956" src="https://github.com/user-attachments/assets/b99526ec-0181-4b66-94c4-c36b25b426d1" />
+
 
 ## 07/11/2025
 
 Nessas últimas semanas avancei bem mais.
 Terminei de fazer as telas que faltavam, como a de pedidos, avaliação e também o catálogo de alimentos.
 Foi nessa parte que o projeto começou a tomar forma de verdade.
+
+<img width="440" height="276" alt="Captura de tela 2025-11-11 165956" src="https://github.com/user-attachments/assets/a09601d4-ab6e-4969-a9a8-bb7e731603d1" />
+
 
 Comecei a trabalhar também no banco de dados, criando todas as tabelas, populando com dados e fazendo os relacionamentos entre elas.
 Usei o ERDPlus pra montar o modelo relacional, e depois o próprio site gerou os códigos SQL que usei no PostgreSQL.
@@ -31,6 +35,9 @@ pedidos
 pedidos_alimentos
 
 avaliacoes
+
+<img width="656" height="485" alt="image" src="https://github.com/user-attachments/assets/40bedb99-5911-49f4-b124-c0387d71f4fc" />
+
 
 Cada uma com suas colunas, chaves e relacionamentos.
 Depois disso, passei um bom tempo arrumando problemas com a conectividade com o banco de dados, tive muitos problemas na parte de cadastro de usuário, onde constava que meu banco de dados nao existia, depois vi que apenas o nome do banco estava errado no codigo
@@ -62,3 +69,6 @@ O FeiFood começou como um exercício simples de login e cadastro e acabou viran
 Mesmo tendo começado pequeno, o projeto foi crescendo e me ajudou muito a entender melhor o Java, o PostgreSQL e a importância de organizar o código em camadas.
 
 Hoje o projeto está finalizado e funcionando bem, e serviu como uma ótima base pra consolidar tudo o que aprendi sobre programação orientada a objetos e integração com banco de dados.
+
+## Arquivos do projeto 
+
