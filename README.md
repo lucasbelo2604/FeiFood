@@ -67,6 +67,7 @@ No final, deu pra entender como um sistema completo funciona, do código até o 
 
 O FeiFood começou como um exercício simples de login e cadastro e acabou virando um sistema completo, com várias telas, banco de dados e lógica funcionando de verdade.
 Mesmo tendo começado pequeno, o projeto foi crescendo e me ajudou muito a entender melhor o Java, o PostgreSQL e a importância de organizar o código em camadas.
+Tive várias dificuldades pelo caminho, a maior de todas sendo a criação das telas, onde tive que adapatar o projeto todo a um novo modelo que tive que aprender do zero, e também varias dificuldades sobre o banco de dados.
 
 Hoje o projeto está finalizado e funcionando bem, e serviu como uma ótima base pra consolidar tudo o que aprendi sobre programação orientada a objetos e integração com banco de dados.
 
